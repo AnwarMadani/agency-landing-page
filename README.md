@@ -13,3 +13,9 @@ A sleek and responsive agency landing page designed with HTML, CSS, and JavaScri
 -Customizable: Easily modify the design, content, and styles to suit your needs.
 
 See it live [here](https://anwarmadani.github.io/agency-landing-page/).
+
+Desktop layout:
+![Agency landing page desktop](https://github.com/user-attachments/assets/53c3343c-9f28-48c5-a6dc-1302476b474d)
+
+Mobile layout: 
+![Agency landing page mobile](https://github.com/user-attachments/assets/df29ce21-5d6d-4dd4-88c3-49ac3e91ed61)
